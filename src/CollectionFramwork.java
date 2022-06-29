@@ -30,8 +30,5 @@ public class CollectionFramwork {
         for (Map.Entry m: list.entrySet()){
             System.out.println(m.getKey() +" "+m.getValue());
         }
-        /*while (list.isEmpty()){
-            System.out.println(list.get(list));
-        }*/
     }
 }
