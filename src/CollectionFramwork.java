@@ -2,6 +2,8 @@ import java.util.*;
 
 public class CollectionFramwork {
     public static void main(String[] args) {
+        System.out.println("Pactice collection framwork");
+
         ArrayList <String>l = new ArrayList<String>();
         l.add("a");
         l.add("b");
